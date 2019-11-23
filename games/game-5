@@ -1,0 +1,11 @@
+--- !ruby/object:Game
+word: 'hawks
+
+'
+board:
+- " _ "
+- a
+- " _ "
+- " _ "
+- s
+message: Congrats! s belongs in the secret word. Take another turn – you have 1 left!

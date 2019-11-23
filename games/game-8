@@ -1,0 +1,15 @@
+--- !ruby/object:Game
+word: 'pediatric
+
+'
+board:
+- " _ "
+- " _ "
+- " _ "
+- i
+- " _ "
+- " _ "
+- " _ "
+- i
+- " _ "
+message: Congrats! i belongs in the secret word. You have 3 turns left!

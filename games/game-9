@@ -1,0 +1,17 @@
+--- !ruby/object:Game
+word: 'destruction
+
+'
+board:
+- " _ "
+- " _ "
+- s
+- " _ "
+- " _ "
+- " _ "
+- " _ "
+- " _ "
+- " _ "
+- " _ "
+- " _ "
+message: Congrats! s belongs in the secret word. You have 4 turns left!
